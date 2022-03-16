@@ -1,4 +1,4 @@
-#Quiz game
+# Quiz game
 
 print("Welcome to my computer quiz game!")
 
